@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "TradeWise - Free Trading Education",
+    "slug": "tradewise-free-learning",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.tradewise.learnfree",
+      "versionCode": 1
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
